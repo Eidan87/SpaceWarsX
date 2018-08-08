@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: #000;
+}
+
+.fondo {
+    background-color: #000000;
+    color: #fff;
+}
+
+.titulo-sistema {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.astro {
+    text-align: center;
+    
+
+  
+}
+
+.astro-interior {
+    width: 80%;
+    padding: 25px;
+    -webkit-transition: padding 0.5s; /* Safari */
+    transition: padding 0.5s;
+}
+
+.astro-interior:hover {
+    padding: 0px;
+}

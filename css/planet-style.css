@@ -1,0 +1,21 @@
+.box-map{
+width: 600px;
+height:400px;
+background: url(../images/mars-texture.jpg);
+    margin: 0 auto;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.tile {
+    border: 1px solid green;
+    width: 98px;
+    height: 98px;
+    float: left;
+}
+
+.tile:hover {
+    background-color: rgba(255,255,255,0.5);
+}
